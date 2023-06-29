@@ -1,0 +1,1074 @@
+﻿Log file open, 10/17/22 15:35:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Rockman
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.066302
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Engine.ini]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.10.17-06.35.26:820][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Engine.ini]
+[2022.10.17-06.35.26:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Engine.ini]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Engine.ini]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.10.17-06.35.26:821][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Engine.ini]
+[2022.10.17-06.35.26:821][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Engine.ini]
+[2022.10.17-06.35.26:823][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.17-06.35.26:823][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.10.17-06.35.26:824][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.10.17-06.35.26:824][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.17-06.35.26:824][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.10.17-06.35.26:826][  0]LogHAL: Display: Platform has ~ 16 GB [17113944064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.17-06.35.26:826][  0]LogInit: Going up to parent DeviceProfile []
+[2022.10.17-06.35.26:826][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.17-06.35.26:826][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Scalability.ini]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.10.17-06.35.26:827][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.17-06.35.26:828][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.10.17-06.35.26:828][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.10.17-06.35.26:828][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/21cu0315/rockman/Rockman/Saved/Config/Windows/Engine.ini]
+[2022.10.17-06.35.26:828][  0]LogInit: Computer: 412PC15
+[2022.10.17-06.35.26:828][  0]LogInit: User: student
+[2022.10.17-06.35.26:828][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.10.17-06.35.26:828][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.17-06.35.26:828][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.17-06.35.26:828][  0]LogMemory: Platform Memory Stats for Windows
+[2022.10.17-06.35.26:828][  0]LogMemory: Process Physical Memory: 106.11 MB used, 106.11 MB peak
+[2022.10.17-06.35.26:828][  0]LogMemory: Process Virtual Memory: 100.04 MB used, 100.04 MB peak
+[2022.10.17-06.35.26:828][  0]LogMemory: Physical Memory: 8063.03 MB used,  8258.10 MB free, 16321.13 MB total
+[2022.10.17-06.35.26:828][  0]LogMemory: Virtual Memory: 5133.59 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2022.10.17-06.35.26:830][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.17-06.35.26:937][  0]LogInit: Overriding language with editor language configuration option (ja).
+[2022.10.17-06.35.26:937][  0]LogInit: Overriding locale with editor locale configuration option (ja).
+[2022.10.17-06.35.27:025][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.17-06.35.27:066][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.17-06.35.27:066][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.17-06.35.28:581][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.17-06.35.28:581][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.10.17-06.35.28:581][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.10.17-06.35.28:581][  0]LogD3D11RHI: D3D11 adapters:
+[2022.10.17-06.35.28:677][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2022.10.17-06.35.28:677][  0]LogD3D11RHI:       8031/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.10.17-06.35.28:679][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.10.17-06.35.28:679][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.10.17-06.35.28:679][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.10.17-06.35.28:684][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.10.17-06.35.28:684][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.17-06.35.28:684][  0]LogWindows: EnumDisplayDevices:
+[2022.10.17-06.35.28:684][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2022.10.17-06.35.28:684][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.10.17-06.35.28:684][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.10.17-06.35.28:684][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.10.17-06.35.28:684][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.17-06.35.28:684][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2022.10.17-06.35.28:684][  0]LogD3D11RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.10.17-06.35.28:685][  0]LogD3D11RHI:      Driver Date: 3-17-2022
+[2022.10.17-06.35.28:685][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2022.10.17-06.35.28:740][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.10.17-06.35.28:740][  0]LogD3D11RHI: Async texture creation enabled
+[2022.10.17-06.35.28:752][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.10.17-06.35.29:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.17-06.35.29:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.17-06.35.29:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.17-06.35.29:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.17-06.35.29:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.10.17-06.35.29:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.17-06.35.29:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.17-06.35.29:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.10.17-06.35.29:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.10.17-06.35.29:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.10.17-06.35.29:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.10.17-06.35.29:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.10.17-06.35.29:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.17-06.35.29:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.17-06.35.29:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.10.17-06.35.29:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.17-06.35.29:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.17-06.35.29:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.17-06.35.29:141][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.10.17-06.35.29:170][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.17-06.35.29:214][  0]LogShaderCompilers: Guid format shader working directory is 22 characters bigger than the processId version (D:/21cu0315/rockman/Rockman/Intermediate/Shaders/WorkingDirectory/784/).
+[2022.10.17-06.35.29:214][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/student/AppData/Local/Temp/UnrealShaderWorkingDir/3681EF594737C7CE9FF8729F81FE759A/'.
+[2022.10.17-06.35.29:214][  0]LogXGEController: Cleaning working directory: C:/Users/student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.10.17-06.35.29:215][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.17-06.35.29:215][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.10.17-06.35.29:215][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.10.17-06.35.30:927][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.10.17-06.35.30:969][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/student/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.10.17-06.35.30:969][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/student/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.10.17-06.35.30:969][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/21cu0315/rockman/Rockman/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.17-06.35.30:969][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.10.17-06.35.30:969][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/21cu0315/rockman/Rockman/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.17-06.35.30:969][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.10.17-06.35.30:982][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.10.17-06.35.30:982][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.17-06.35.30:982][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.10.17-06.35.30:983][  0]LogDerivedDataCache: Using Local data cache path C:/Users/student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.17-06.35.30:983][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.17-06.35.30:983][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.10.17-06.35.31:003][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.10.17-06.35.31:005][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.17-06.35.31:013][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.17-06.35.31:061][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2022.10.17-06.35.31:273][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.17-06.35.31:446][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.17-06.35.31:446][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.17-06.35.31:446][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.17-06.35.31:446][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.17-06.35.31:446][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.17-06.35.31:467][  0]LogNetVersion: Rockman 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 243440153)
+[2022.10.17-06.35.32:770][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.023613 seconds
+[2022.10.17-06.35.32:776][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2022.10.17-06.35.32:776][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2022.10.17-06.35.32:776][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.17-06.35.33:229][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.17-06.35.33:231][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.17-06.35.33:273][  0]SourceControl: ソースコントロールは無効です
+[2022.10.17-06.35.33:273][  0]SourceControl: ソースコントロールは無効です
+[2022.10.17-06.35.33:273][  0]SourceControl: ソースコントロールは無効です
+[2022.10.17-06.35.33:274][  0]SourceControl: ソースコントロールは無効です
+[2022.10.17-06.35.33:275][  0]SourceControl: ソースコントロールは無効です
+[2022.10.17-06.35.33:339][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.17-06.35.33:347][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.17-06.35.33:347][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.17-06.35.33:437][  0]LogOcInput: OculusInput pre-init called
+[2022.10.17-06.35.33:442][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.10.17-06.35.33:442][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.10.17-06.35.33:504][  0]LogEngine: Initializing Engine...
+[2022.10.17-06.35.33:505][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.17-06.35.33:506][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.17-06.35.33:863][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.17-06.35.33:868][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.17-06.35.33:871][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.17-06.35.33:871][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.17-06.35.33:871][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.17-06.35.33:871][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.17-06.35.33:871][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.17-06.35.33:871][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.17-06.35.33:871][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.17-06.35.33:871][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.17-06.35.33:871][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.17-06.35.33:871][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.17-06.35.33:880][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.10.17-06.35.33:880][  0]LogAudioMixer: Display: Name: KH250V-Z (NVIDIA High Definition Audio)
+[2022.10.17-06.35.33:880][  0]LogAudioMixer: Display: Is Default: Yes
+[2022.10.17-06.35.33:880][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2022.10.17-06.35.33:880][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2022.10.17-06.35.33:880][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2022.10.17-06.35.33:880][  0]LogAudioMixer: Display: Channel Order:
+[2022.10.17-06.35.33:880][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.17-06.35.33:880][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.10.17-06.35.33:933][  0]LogAudioMixer: Display: Using Audio Device KH250V-Z (NVIDIA High Definition Audio)
+[2022.10.17-06.35.33:936][  0]LogInit: FAudioDevice initialized.
+[2022.10.17-06.35.33:936][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.17-06.35.34:005][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/student/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.10.17-06.35.34:005][  0]LogInit: Texture streaming: Enabled
+[2022.10.17-06.35.34:013][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.17-06.35.34:013][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.10.17-06.35.34:014][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.10.17-06.35.34:037][  0]LogInit: Transaction tracking system initialized
+[2022.10.17-06.35.34:046][  0]BlueprintLog: New page: エディタの読み込み
+[2022.10.17-06.35.34:070][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2022.10.17-06.35.34:421][  0]LogFileCache: Scanning file cache for directory 'D:/21cu0315/rockman/Rockman/Content/' took 0.00s
+[2022.10.17-06.35.34:421][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.10.17-06.35.34:421][  0]LogCook: Display: Mobile HDR setting 1
+[2022.10.17-06.35.34:924][  0]SourceControl: ソースコントロールは無効です
+[2022.10.17-06.35.34:924][  0]Cmd: MAP LOAD FILE="D:/21cu0315/rockman/Rockman/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.17-06.35.34:924][  0]LogEditorServer: Warning: Can't find file 'D:/21cu0315/rockman/Rockman/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.10.17-06.35.34:924][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.17-06.35.34:924][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.08ミリ秒かかりました。
+[2022.10.17-06.35.34:925][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.000
+[2022.10.17-06.35.35:024][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2022.10.17-06.35.35:075][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.17-06.35.35:080][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.17-06.35.35:084][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.17-06.35.35:090][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.17-06.35.35:098][  0]LogCollectionManager: Loaded 0 collections in 0.001370 seconds
+[2022.10.17-06.35.35:106][  0]LogFileCache: Scanning file cache for directory 'D:/21cu0315/rockman/Rockman/Saved/Collections/' took 0.00s
+[2022.10.17-06.35.35:107][  0]LogFileCache: Scanning file cache for directory 'D:/21cu0315/rockman/Rockman/Content/Developers/student/Collections/' took 0.00s
+[2022.10.17-06.35.35:107][  0]LogFileCache: Scanning file cache for directory 'D:/21cu0315/rockman/Rockman/Content/Collections/' took 0.00s
+[2022.10.17-06.35.35:107][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 3015 classes and 717 folders.
+[2022.10.17-06.35.35:108][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.17-06.35.35:282][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.17-06.35.35:287][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2022.10.17-06.35.35:357][  0]LogSlate: Took 0.003743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.17-06.35.35:361][  0]LogSlate: Took 0.003739 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2022.10.17-06.35.35:365][  0]LogSlate: Took 0.003350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2022.10.17-06.35.35:367][  0]LogSlate: Took 0.002743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.17-06.35.35:373][  0]LogSlate: Took 0.003392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.17-06.35.35:467][  0]LogRenderer: Reallocating scene render targets to support 1200x628 Format 10 NumSamples 1 (Frame:1).
+[2022.10.17-06.35.35:570][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2022.10.17-06.35.35:571][  0]LogLoad: (Engine Initialization) Total time: 10.90 seconds
+[2022.10.17-06.35.35:571][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.17-06.35.35:631][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.17-06.35.35:706][  1]LogRenderer: Reallocating scene render targets to support 1200x644 Format 10 NumSamples 1 (Frame:5).
+[2022.10.17-06.35.35:968][  6]LogAssetRegistry: Asset discovery search completed in 4.9076 seconds
+[2022.10.17-06.35.35:970][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.10.17-06.35.39:710][385]LogSlate: Took 0.003214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.17-06.35.40:971][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.17-06.35.40:972][493]Cmd: MAP LOAD FILE="D:/21cu0315/rockman/Rockman/Content/2DSideScrollerBP/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.17-06.35.40:976][493]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.17-06.35.40:979][493]LogSlate: Took 0.003515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2022.10.17-06.35.41:006][493]LightingResults: New page: ライティングのビルド
+[2022.10.17-06.35.41:007][493]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2022.10.17-06.35.41:007][493]LoadErrors: New page: マップをロード中: Main.umap
+[2022.10.17-06.35.41:007][493]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.17-06.35.41:007][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.17-06.35.41:007][493]MapCheck: New page: マップをチェック
+[2022.10.17-06.35.41:007][493]LightingResults: New page: <何も選択されていません>
+[2022.10.17-06.35.41:029][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.10.17-06.35.41:206][493]LogAIModule: Creating AISystem for world Main
+[2022.10.17-06.35.41:264][493]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.17-06.35.41:288][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.17-06.35.41:304][493]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.17-06.35.41:304][493]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.063ミリ秒かかりました。
+[2022.10.17-06.35.41:304][493]LogFileHelpers: Loading map 'Main' took 0.333
+[2022.10.17-06.35.41:304][493]LogSlate: Window 'レベルを開く' being destroyed
+[2022.10.17-06.36.31:023][383]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Rockman.Rockman
+[2022.10.17-06.36.31:191][383]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2022.10.17-06.36.31:857][383]LogSlate: Took 0.004467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2022.10.17-06.36.31:860][383]LogSlate: Took 0.003209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.17-06.36.32:014][384]LogSlate: Took 0.002997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 0 (  Trying 18.210.110.7...)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 2 (connect to 18.210.110.7 port 443 failed: Timed out)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 3 (  Trying 35.153.234.63...)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 4 (TCP_NODELAY set)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 5 (After 19469ms connect time, move on!)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 6 (connect to 35.153.234.63 port 443 failed: Timed out)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 7 (  Trying 3.216.159.37...)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 8 (TCP_NODELAY set)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 9 (After 9734ms connect time, move on!)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 10 (connect to 3.216.159.37 port 443 failed: Timed out)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 11 (  Trying 3.209.52.5...)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 12 (TCP_NODELAY set)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 14 (connect to 3.209.52.5 port 443 failed: Timed out)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 15 (  Trying 35.170.119.114...)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 16 (TCP_NODELAY set)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 17 (After 2430ms connect time, move on!)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 18 (connect to 35.170.119.114 port 443 failed: Timed out)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 19 (  Trying 3.210.143.215...)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 20 (TCP_NODELAY set)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 22 (connect to 3.210.143.215 port 443 failed: Timed out)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 23 (  Trying 34.234.51.202...)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 24 (TCP_NODELAY set)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 26 (connect to 34.234.51.202 port 443 failed: Timed out)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 27 (  Trying 52.54.156.178...)
+[2022.10.17-06.37.35:303][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 28 (TCP_NODELAY set)
+[2022.10.17-06.37.35:304][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 29 (After 297ms connect time, move on!)
+[2022.10.17-06.37.35:304][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 30 (connect to 52.54.156.178 port 443 failed: Timed out)
+[2022.10.17-06.37.35:304][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2022.10.17-06.37.35:304][868]LogHttp: Warning: 00000219759B4E00: libcurl info message cache 32 (Closing connection 0)
+[2022.10.17-06.37.35:304][868]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: request failed, libcurl error: 7 (Couldn't connect to server)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 0 (  Trying 34.194.231.51...)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 2 (connect to 34.194.231.51 port 443 failed: Timed out)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 3 (  Trying 44.195.234.189...)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 4 (TCP_NODELAY set)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 5 (After 19476ms connect time, move on!)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 6 (connect to 44.195.234.189 port 443 failed: Timed out)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 7 (  Trying 52.5.128.139...)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 8 (TCP_NODELAY set)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 9 (After 9734ms connect time, move on!)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 10 (connect to 52.5.128.139 port 443 failed: Timed out)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 11 (  Trying 52.1.6.244...)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 12 (TCP_NODELAY set)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 14 (connect to 52.1.6.244 port 443 failed: Timed out)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 15 (  Trying 34.234.147.162...)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 16 (TCP_NODELAY set)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 17 (After 2429ms connect time, move on!)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 18 (connect to 34.234.147.162 port 443 failed: Timed out)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 19 (  Trying 52.202.66.3...)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 20 (TCP_NODELAY set)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 21 (After 1210ms connect time, move on!)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 22 (connect to 52.202.66.3 port 443 failed: Timed out)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 23 (  Trying 3.213.235.241...)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 24 (TCP_NODELAY set)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 26 (connect to 3.213.235.241 port 443 failed: Timed out)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 27 (  Trying 3.83.196.74...)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 28 (TCP_NODELAY set)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 29 (After 296ms connect time, move on!)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 30 (connect to 3.83.196.74 port 443 failed: Timed out)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: 0000021954192340: libcurl info message cache 32 (Closing connection 1)
+[2022.10.17-06.40.35:434][958]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.17-06.43.35:745][496]LogHttp: Warning: 0000021954192340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.17-06.43.35:745][496]LogHttp: Warning: 0000021954192340: request failed, libcurl error: 7 (Couldn't connect to server)
+[2022.10.17-06.43.35:745][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 0 (  Trying 54.211.15.111...)
+[2022.10.17-06.43.35:745][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.10.17-06.43.35:745][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 2 (connect to 54.211.15.111 port 443 failed: Timed out)
+[2022.10.17-06.43.35:745][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 3 (  Trying 3.222.166.58...)
+[2022.10.17-06.43.35:745][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 4 (TCP_NODELAY set)
+[2022.10.17-06.43.35:745][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 5 (After 19492ms connect time, move on!)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 6 (connect to 3.222.166.58 port 443 failed: Timed out)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 7 (  Trying 34.203.76.31...)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 8 (TCP_NODELAY set)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 9 (After 9742ms connect time, move on!)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 10 (connect to 34.203.76.31 port 443 failed: Timed out)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 11 (  Trying 52.22.196.202...)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 12 (TCP_NODELAY set)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 14 (connect to 52.22.196.202 port 443 failed: Timed out)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 15 (  Trying 52.54.156.178...)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 16 (TCP_NODELAY set)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 17 (After 2430ms connect time, move on!)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 18 (connect to 52.54.156.178 port 443 failed: Timed out)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 19 (  Trying 34.195.194.63...)
+[2022.10.17-06.43.35:746][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 20 (TCP_NODELAY set)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 22 (connect to 34.195.194.63 port 443 failed: Timed out)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 23 (  Trying 34.203.51.8...)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 24 (TCP_NODELAY set)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 25 (After 602ms connect time, move on!)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 26 (connect to 34.203.51.8 port 443 failed: Timed out)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 27 (  Trying 3.236.2.64...)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 28 (TCP_NODELAY set)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 29 (After 297ms connect time, move on!)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 30 (connect to 3.236.2.64 port 443 failed: Timed out)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: 0000021954192340: libcurl info message cache 32 (Closing connection 2)
+[2022.10.17-06.43.35:747][496]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: request failed, libcurl error: 7 (Couldn't connect to server)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 0 (  Trying 3.221.222.214...)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 2 (connect to 3.221.222.214 port 443 failed: Timed out)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 3 (  Trying 3.213.172.223...)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 4 (TCP_NODELAY set)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 5 (After 19469ms connect time, move on!)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 6 (connect to 3.213.172.223 port 443 failed: Timed out)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 7 (  Trying 52.70.0.53...)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 8 (TCP_NODELAY set)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 9 (After 9734ms connect time, move on!)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 10 (connect to 52.70.0.53 port 443 failed: Timed out)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 11 (  Trying 52.86.145.224...)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 12 (TCP_NODELAY set)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 14 (connect to 52.86.145.224 port 443 failed: Timed out)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 15 (  Trying 18.233.138.28...)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 16 (TCP_NODELAY set)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 17 (After 2429ms connect time, move on!)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 18 (connect to 18.233.138.28 port 443 failed: Timed out)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 19 (  Trying 54.209.194.26...)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 20 (TCP_NODELAY set)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 22 (connect to 54.209.194.26 port 443 failed: Timed out)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 23 (  Trying 107.23.69.55...)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 24 (TCP_NODELAY set)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 26 (connect to 107.23.69.55 port 443 failed: Timed out)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 27 (  Trying 3.223.142.185...)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 28 (TCP_NODELAY set)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 29 (After 297ms connect time, move on!)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 30 (connect to 3.223.142.185 port 443 failed: Timed out)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: 0000021954192340: libcurl info message cache 32 (Closing connection 3)
+[2022.10.17-06.46.35:466][ 32]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: request failed, libcurl error: 7 (Couldn't connect to server)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 0 (  Trying 52.45.233.154...)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 2 (connect to 52.45.233.154 port 443 failed: Timed out)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 3 (  Trying 34.196.241.108...)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 4 (TCP_NODELAY set)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 5 (After 19468ms connect time, move on!)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 6 (connect to 34.196.241.108 port 443 failed: Timed out)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 7 (  Trying 54.173.235.236...)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 8 (TCP_NODELAY set)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 9 (After 9734ms connect time, move on!)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 10 (connect to 54.173.235.236 port 443 failed: Timed out)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 11 (  Trying 3.91.141.121...)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 12 (TCP_NODELAY set)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 14 (connect to 3.91.141.121 port 443 failed: Timed out)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 15 (  Trying 23.20.18.50...)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 16 (TCP_NODELAY set)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 17 (After 2429ms connect time, move on!)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 18 (connect to 23.20.18.50 port 443 failed: Timed out)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 19 (  Trying 54.85.104.166...)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 20 (TCP_NODELAY set)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 21 (After 1210ms connect time, move on!)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 22 (connect to 54.85.104.166 port 443 failed: Timed out)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 23 (  Trying 3.221.39.137...)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 24 (TCP_NODELAY set)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 26 (connect to 3.221.39.137 port 443 failed: Timed out)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 27 (  Trying 54.146.34.114...)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 28 (TCP_NODELAY set)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 29 (After 296ms connect time, move on!)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 30 (connect to 54.146.34.114 port 443 failed: Timed out)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: 0000021954192340: libcurl info message cache 32 (Closing connection 4)
+[2022.10.17-06.49.35:802][570]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.17-06.51.52:222][371]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2022.10.17-06.51.52:228][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Main.Main:PersistentLevel.Main'
+[2022.10.17-06.51.52:228][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.17-06.51.52:229][371]PIE: New page: PIEセッション: Main (2022/10/18 0:51:52)
+[2022.10.17-06.51.52:229][371]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.10.17-06.51.52:230][371]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.17-06.51.52:230][371]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Main
+[2022.10.17-06.51.52:233][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002595s)
+[2022.10.17-06.51.52:234][371]LogAIModule: Creating AISystem for world Main
+[2022.10.17-06.51.52:234][371]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2022.10.17-06.51.52:234][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Main.Main to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Main.Main (0.003650s)
+[2022.10.17-06.51.52:264][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.17-06.51.52:265][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.17-06.51.52:265][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.17-06.51.52:265][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.17-06.51.52:265][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.17-06.51.52:265][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.17-06.51.52:265][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.17-06.51.52:265][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.17-06.51.52:265][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.17-06.51.52:265][371]LogAudio: Display: Using built-in audio occlusion.
+[2022.10.17-06.51.52:265][371]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.17-06.51.52:271][371]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.10.17-06.51.52:271][371]LogAudioMixer: Display: Name: KH250V-Z (NVIDIA High Definition Audio)
+[2022.10.17-06.51.52:271][371]LogAudioMixer: Display: Is Default: Yes
+[2022.10.17-06.51.52:271][371]LogAudioMixer: Display: Sample Rate: 48000
+[2022.10.17-06.51.52:271][371]LogAudioMixer: Display: Channel Count Used: 2
+[2022.10.17-06.51.52:271][371]LogAudioMixer: Display: Device Channel Count: 2
+[2022.10.17-06.51.52:271][371]LogAudioMixer: Display: Channel Order:
+[2022.10.17-06.51.52:271][371]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.17-06.51.52:271][371]LogAudioMixer: Display: 1: FrontRight
+[2022.10.17-06.51.52:279][371]LogAudioMixer: Display: Using Audio Device KH250V-Z (NVIDIA High Definition Audio)
+[2022.10.17-06.51.52:281][371]LogInit: FAudioDevice initialized.
+[2022.10.17-06.51.52:327][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.17-06.51.52:328][371]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2022.10.17-06.51.52:330][371]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.10.17-15.51.52
+[2022.10.17-06.51.52:331][371]LogWorld: Bringing up level for play took: 0.001847
+[2022.10.17-06.51.52:331][371]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.10.17-06.51.52:334][371]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.10.17-06.51.52:334][371]LogBlueprintUserMessages: [Main_C_7] Main
+[2022.10.17-06.51.52:338][371]PIE: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Main -0.765のプレイ イン エディタの開始時間
+[2022.10.17-06.51.52:339][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Main.Main:PersistentLevel.Main'
+[2022.10.17-06.51.52:376][372]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.10.17-06.51.58:221][ 38]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.10.17-06.51.58:221][ 38]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.10.17-06.51.58:221][ 38]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Main.Main:PersistentLevel.Main'
+[2022.10.17-06.51.58:221][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.17-06.51.58:221][ 38]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Main
+[2022.10.17-06.51.58:228][ 38]LogSlate: Window 'Rockman ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2022.10.17-06.51.58:232][ 38]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.10.17-06.51.58:232][ 38]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.17-06.51.58:232][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.17-06.51.58:245][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.17-06.51.58:245][ 38]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Main.Main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Main.Main:PersistentLevel.Main'
+[2022.10.17-06.51.58:249][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.17-06.51.58:281][ 38]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.10.17-06.51.58:299][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.10.17-06.51.58:326][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.10.17-06.52.19:074][883]LogSlate: Window 'Rockman' being destroyed
+[2022.10.17-06.52.19:079][883]LogSlate: Window 'Rockman' being destroyed
+[2022.10.17-06.52.19:079][883]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.10.17-06.52.19:079][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.17-06.52.21:146][ 81]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Fireman.Fireman
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: request failed, libcurl error: 7 (Couldn't connect to server)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 0 (  Trying 52.202.58.249...)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 2 (connect to 52.202.58.249 port 443 failed: Timed out)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 3 (  Trying 44.195.234.189...)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 4 (TCP_NODELAY set)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 5 (After 19476ms connect time, move on!)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 6 (connect to 44.195.234.189 port 443 failed: Timed out)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 7 (  Trying 3.234.0.28...)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 8 (TCP_NODELAY set)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 9 (After 9734ms connect time, move on!)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 10 (connect to 3.234.0.28 port 443 failed: Timed out)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 11 (  Trying 52.20.182.226...)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 12 (TCP_NODELAY set)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 14 (connect to 52.20.182.226 port 443 failed: Timed out)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 15 (  Trying 34.230.172.14...)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 16 (TCP_NODELAY set)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 17 (After 2429ms connect time, move on!)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 18 (connect to 34.230.172.14 port 443 failed: Timed out)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 19 (  Trying 34.204.164.104...)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 20 (TCP_NODELAY set)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 22 (connect to 34.204.164.104 port 443 failed: Timed out)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 23 (  Trying 18.215.228.22...)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 24 (TCP_NODELAY set)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 26 (connect to 18.215.228.22 port 443 failed: Timed out)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 27 (  Trying 3.83.196.74...)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 28 (TCP_NODELAY set)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 29 (After 296ms connect time, move on!)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 30 (connect to 3.83.196.74 port 443 failed: Timed out)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: 0000021954192340: libcurl info message cache 32 (Closing connection 5)
+[2022.10.17-06.52.35:567][468]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.17-06.53.05:123][571]LogSlate: Window 'Fireman' being destroyed
+[2022.10.17-06.53.07:109][792]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/FiremanBullet.FiremanBullet
+[2022.10.17-06.54.17:191][171]LogSlate: Took 0.003407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.17-06.55.15:894][766]BlueprintLog: New page: FiremanBullet をコンパイル
+[2022.10.17-06.55.16:133][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: request failed, libcurl error: 7 (Couldn't connect to server)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 0 (  Trying 3.218.48.114...)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 2 (connect to 3.218.48.114 port 443 failed: Timed out)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 3 (  Trying 52.86.145.224...)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 4 (TCP_NODELAY set)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 5 (After 19476ms connect time, move on!)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 6 (connect to 52.86.145.224 port 443 failed: Timed out)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 7 (  Trying 44.193.137.207...)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 8 (TCP_NODELAY set)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 9 (After 9734ms connect time, move on!)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 10 (connect to 44.193.137.207 port 443 failed: Timed out)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 11 (  Trying 54.164.47.240...)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 12 (TCP_NODELAY set)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 14 (connect to 54.164.47.240 port 443 failed: Timed out)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 15 (  Trying 3.210.52.38...)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 16 (TCP_NODELAY set)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 17 (After 2429ms connect time, move on!)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 18 (connect to 3.210.52.38 port 443 failed: Timed out)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 19 (  Trying 3.213.172.223...)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 20 (TCP_NODELAY set)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 22 (connect to 3.213.172.223 port 443 failed: Timed out)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 23 (  Trying 107.23.69.55...)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 24 (TCP_NODELAY set)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 26 (connect to 107.23.69.55 port 443 failed: Timed out)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 27 (  Trying 44.210.200.163...)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 28 (TCP_NODELAY set)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 29 (After 297ms connect time, move on!)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 30 (connect to 44.210.200.163 port 443 failed: Timed out)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: 0000021994B01300: libcurl info message cache 32 (Closing connection 6)
+[2022.10.17-06.55.35:285][770]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B5AEA19-4EC6-865B-FBB2-95A636B9AAC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=513c13634ab20e31bea8a783333a5c9e%7C089b01bdee0045a987de58d780a930b3%7C27db1c64-4c51-414b-af84-1edcd3fe870c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.17-06.55.41:096][370]LogUObjectArray: Warning: Empty slot
+[2022.10.17-06.55.41:097][370]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.17-06.55.41:561][370]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.464 s
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: 
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: Stack: 
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff887387b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff886b9678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff886ba409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff883c7c5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff8826c977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff882681647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff887bab144 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff887d9dc63 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff887bf60b3 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff887bf39a4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff887bf3316 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff78510901f UE4Editor.exe!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff78511c3ec UE4Editor.exe!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff78511c4ca UE4Editor.exe!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff78512ceae UE4Editor.exe!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff78512fcbe UE4Editor.exe!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff946087034 KERNEL32.DLL!UnknownFunction []
+[2022.10.17-06.55.41:561][370]LogOutputDevice: Error: [Callstack] 0x00007ff947f226a1 ntdll.dll!UnknownFunction []
+[2022.10.17-06.55.41:562][370]LogOutputDevice: Error: 
+[2022.10.17-06.55.41:569][370]LogStats:                SubmitErrorReport -  0.000 s
